@@ -21,22 +21,24 @@ That said, it's in everyone's power to become a better player. If you can learn,
 ## Before You Smash
 
 ### Choose a Controller
+You have several options to choose from. If you just got a switch, then using the default controller will work fine. A step up from that would be to get a pro-controller. If you want to go old-school, you can get a gamecube controller and adapter. 
 
 ### Set Your Control Scheme
+Create a nametag and set your default controls. Take note of how your c-stick is configured. You have the option of changing c-stick to tilts instead of smash attacks. You can also turn off tilt jump, so pressing up will not make you jump. This is helpful if you want to execute an up-tilt attack without accidentally jumping. Some people use the shoulder button to jump, so their thumb can always be on the attack button. Try mixing it up and see what works for you! There is no 'correct' control scheme except the one you like.
 
 ---
 
 ## Train
 
 ### Training Mode
-Training mode is your best friend.
-Use the colored markings to improve precision.
+Training mode is your best friend. Just run around and get a feel for your character. Punch up the dummy a little bit.
+Use the colored markings to improve precision and measure the distance covered by attacks.
 
 ### Practice Mode
 Create a smash ruleset that uses only omega and battlefield stages.
 Set the CPU to level 1.
-Set it to timed mode.
-Goal is not to beat the CPU, but to always land your hits.
+Set it to timed mode, and choose a moderate length of time. I like 4 minutes, it's enough to get some practice in without getting boring.
+Remember the goal is not to beat the CPU, but to always land your hits.
 More practice tips and exercieses will come later.
 
 ---
@@ -51,14 +53,17 @@ Find a playstyle that you would like to learn.
 ### Choose a main
 Choose whichever character you think is coolest, or one that you can land hits reliably.
 As you improve with your main, you will also get better at the fundamentals of all other characters.
+The goal of choosing a main is to focus on the very technical aspects, and learn exactly how the character moves and exactly how the attacks come out. This will be the character you can use without thinking.
+
+### Choose a backup
+Somtimes you can get tired of using your main, especially after a long training session. Pick someone else to 'reset' and have some fun. Sometimes your main will be bad against a certain other type of character. It's useful to have a backup incase that happens.
 
 ---
 
-## Moveset
+## Movement
+Let's focus on the tricky parts first! Anyone picking up the game can run and jump, but there is much more to learn if you want to move like a master.
 
-### Movement
-
-#### Walking
+### Walking
 Before you can run, you must walk! 
 How quickly can you tilt the stick without sprinting? 
 Control the speed of your walk. 
@@ -66,13 +71,18 @@ Use this to get into a precice position.
 ```
 Exercise: Walk and stop on each colored line as you go across the stage. 
 Try to stop directly on each line.
+Walk back and forth, changing direction quickly, but without accidentally sprinting.
 You can slow down and speed up to increase precision.
 ```
 
-#### Short hopping
-Muscle memory. Try to set a record. Short hop while running forward. Short hop in place.
+### Short hopping
+This is an important move that many newcomers to smash don't even know exists. If you _tap_ the jump button very quickly, you will short hop. This is about half the height of the full hop, and will come in very useful. The only way to get good at this is to build muscle memory. 
+
+Try to set a record. Short hop while running forward. Short hop in place.
 You may notice a lag between the time you think about short hopping, and actually executing it.
 The goal of practice is to make it instantanious.
+
+This will take time, and many practice sessions! You will get better each time, and congratulate yourself when you do. Think of it like learning to play an instrument - rote practice and repitition to start out, before you can really 'play'.
 ```
 Exercise 1: Do a standing short hop 5 times in a row.
 Once you make it to 5, keep going and see how many you can do.
@@ -80,10 +90,10 @@ Keep track of your personal record.
 ```
 ```
 Exercise 2: Perform a running short hop.
-Continue to run across the stage, short hopping as you go.
+Continue to run across the stage, short hopping as you go. Focus on always short-hopping, without accidentally jumping. As you get better, see how quickly you can short hop one after another.
 ```
 
-#### Sprinting
+### Sprinting
 Turn around without going into skid animation.
 Stop precicely.
 Run up to edge without losing balance.
@@ -93,7 +103,7 @@ Try changing directions as quickly as possible.
 Run up to, but do not touch the dummy.
 ```
 
-#### Jumping
+### Jumping
 Land precicely.
 Land in front of and behind the opponent.
 ```
@@ -104,7 +114,7 @@ Jump and land just in front of the dummy.
 Jump and land just behind the dummy.
 ```
 
-#### Fast Falling
+### Fast Falling
 Hit down at the very top of the jump.
 You will see a little spark if you do this correctly.
 ```
@@ -112,12 +122,16 @@ Exercise:
 Jump and fast fall 10 times in a row
 ```
 
-#### Short-hop fast-fall
+### Short-hop fast-fall
 This is the special technique that seperates the best from the rest!
 ```
 Exercise:
 Do 5 consecutive short-hop fast-falls, take your time.
 ```
+
+---
+
+## Attacks
 
 ### Ground Attacks 
 
@@ -134,6 +148,7 @@ Do 5 consecutive short-hop fast-falls, take your time.
 - Back
 
 ### Short-hop attacks
+You have all the air attacks, but executed close to the ground. These are very trickly to pull off, but very rewarding. Focus on hitting the attack button as you are coming down from a short hop.
 
 ### Special Attacks
 
@@ -146,25 +161,29 @@ Do 5 consecutive short-hop fast-falls, take your time.
 Exercise:
 Go into practice mode and KO the dummy by using only one move over and over. Focus on always hitting the move.
 ```
+---
+## Shielding
+
+---
+## Grabbing
 
 ---
 ## Strategy
 
 ### Footsies
 
+### Spikes
+
 ### Getting back on stage
 
-## Chapter 1: Dive right in!
+---
+## Going Online!
+Time to dive in and get some matches under your belt. It may be difficult to start out, but learning is part of the process. Here are some tips for when you start playing.
 
 It may be intimidating at first, but simply playing the game online will give you experience. When you've played for a little while, you'll get a feel for what it's like to really contend, and maybe a sense of what you're up against. Here are a few tips to make the most out of your matches when beginning to play online.
 
-
-### Try different characters
-The character you like the most may not be the one you’re best with. It’s fun to experiment, and there’s so many characters to choose from, you’d be missing out on a big part of the game by limiting yourself. Stuck in a rut? Try mixing it up. See if you like swords, ranged attacks, quick characters, or slow and powerful characters.
-
 ### Don't pay attention to GSP
 GSP is basically a way to ensure that you'll be playing against people where you have a fighting chance. It's better to have an accurate GSP than it is to have a high GSP. It will take a few rounds to calibrate. If you’ve played classic mode, you will start out with a GSP that is probably higher than you really should be.
-Breathe
 
 ### Don’t panic! 
 Take your time and try and think about your next move. This can be tricky if your opponent doesn’t give you time to think, but don’t start flailing just to try to hit something. If your opponent is chasing you down, try just dodging and getting out of range for a while as you regroup. Be intentional with your attacks. Don’t forget to shield and grab.
@@ -178,9 +197,6 @@ This is important! On the final results screen, you'll have a chance to save a r
 ### Analyze your replays
 
 Everyone makes slightly different mistakes while playing, so this is a chance to tailor your training. Keep a notepad handy and keep a record of lessons learned. Use Z to step through frame by frame. Find out your weak points and start paying attention to them. Sometimes I'll catch a "what was I thinking!?" moment. Don't get discouraged! I've filled pages with things I could have done better, and then I wonder where I should even begin to improve. The point isn’t to be overwhelmed with negatives, but simply to make a note and acknowledge it.
-
-### Train
-Now that you know some areas for improvement, practice practice practice. What do you need to learn? What should you be doing? What should you stop doing? Chances are your mistakes are all a matter of not having the fundamentals hardwired into your system. Practice correcting one particular mistake until you feel like you're ready to bring it to a real fight. When training against a CPU, keep it at level 1. Yup. It should be easy to hit. Any CPU higher than 1 will teach you bad habits. Don’t try to win against a level 1 opponent, just use it as a punching bag. Focus on always landing your attacks and grabs. Focus on never getting hit. Play against an opponent with ranged attacks and practice shielding and moving in. Get up close and try to read an attack and shield then. Try honing in on one particular technique and practice it until it becomes muscle memory.
 
 ### Keep playing
 Every fight is a good fight! Keep playing against humans and you will get better in time. It may take a few rounds, but you will improve nonetheless. Learn to have fun while playing, even when it can get frustrating. Every time you get frustrated it is an opportunity to learn. Win or lose, experience is valuable.
@@ -216,72 +232,3 @@ Short hop by barely tapping the jump button. The short hop should be about half-
 Fast fall by hitting down as you come down from a jump. This often throws off the timing of someone anticipating where you’ll land. Also, the faster you land, the faster you can run around. A little spark will appear when this is done correctly.
 
 Lastly, like in the previous section, look at the dummy while you’re jumping around. Still try to land precisely. Set the dummy to walk and jump over it a few times while watching the dummy.
-
-### Attacking
-Finally, I get to punch someone! Some advice for attacking in general: Make your attacks intentional. Avoid flailing, attacking in random directions hoping something will hit. Train against a standing dummy, a walking dummy, then a running dummy - can you chase it down? Against the dummy, your goal should be to always land the attack, no whiffing.
-#### Neutral Attacks
-First, get used to your neutral attack. Attack in place without moving. Figure out what your combo looks like if you keep hitting the attack button. How quickly does it come out? How close do you have to be? On some characters you can hold down the button to keep attacking in place (until someone runs into it). Try running up to the dummy and neutral attack as quick as you can, without accidentally dash-attacking.
-#### Tilt Attacks
-Next, try your standing up and down tilt attacks. Make sure you can pull them off without accidentally smash attacking. While standing in place, attack overhead. How high is this attack? Can you hit someone on a platform above you? Does it hit the dummy standing next to you? Next try the down attack, or attacking while crouching. Check the range, and how quick it comes out. Try hitting the dummy both in front of you and behind you.
-
-Tilt attacks. Do these by tilting the stick slightly, without dashing. These also come out while you’re walking. Again, check the range and speed. Some of these hit below the ground, so see if you can use it at the edge. Sometimes they are more powerful than standing neutrals.
-#### Air Attacks
-Air attacks. Set the dummy to jump and try hitting it in the air. Get used to all your angles, neutral, forward, up, down, and back. Some attacks will be stronger than others, so look up the moves for your character. Back air is often a tricky one to execute, so be sure to practice it.
-Dash Attack
-Attack as you are running forward. Most do a lot of damage, but will leave you vulnerable if you miss, so don’t rely on them too much. Pay attention to how far forward your character ends up after performing a dash attack. 
-#### Smash Attacks
-The namesake of the game! Up, down, left, right. High risk, high reward attacks. Use for KOing an opponent, when they’re on the brink. These take time to pull off, and will almost always be punished if you miss.
-#### Short Hop Attacks
-Short hop attacks. Like in the jumping section, you can short-hop and attack. Technically the jump button is hit slightly before the attack, but it’s very quick - You can do them by essentially pressing jump and attack at the same time. Do these standing in place, and from dashing forward. See how far away you should be in order for this to hit. Some characters you need to be right up against the dummy, others you have to start farther away and hit them as you’re coming down. Try dashing, then short hop and neutral air. This is a good move to have in your pocket.
-
-### Shielding
-This is your basic counter to attacks. To train, pick a cpu that uses ranged attacks, and shield to block them.
-### Grabbing
-You can grab either by hitting A while you’re shielded, or by pressing the bumper button. You can grab out of a run. A grab will go through the opponents shield, so use this when they think you’re going to attack and they put up their defenses.
-### Dodging / Rolling
-While shielding, hit down to dodge. Also while shielding, hit left or right to roll in that direction. Don’t overuse rolls! You can be badly punished while recovering from a roll. Try rolling both away from your opponent, then also towards your opponent, to end up behind them. Practice how close you have to be in order to roll towards you opponent and be on the opposite side. The last thing you want to do is roll towards your opponent, and end up in front of them facing the wrong way.
-
-## Chapter 3: Fundamental Strategy
-Remember the trifecta: Shields beat attacks, attacks beat grabs, and grabs beat shields. You will need to use all three in order to beat an opponent.
-
-Challenge: Three stock a level 3 CPU. Don’t try to beat it. Try to hit all your moves.
-
-Practice one move over and over. This would annoy the hell out of a human, but you can take advantage of it here.
-
-Avoid until you see a shield, then go in for a grab.
-Hit ariels in all four directions.
-Hit those tilts. The C-Stick is your friend.
-
-
-Smash when you are certain it’s going to hit.
-
-
-Run around without dodge-rolling
-
-
-Practice the forward moving, short hop, neutral air
-
-
-Use ALL your moves.
-
-Add more things to the above list when you figure them out.
-
-Practice for however long you want, then keep in mind you’ve only been playing a CPU. Humans are very different. But by know you know some things about your character that you can have in your aresonal 
-
-
-Adjust your control scheme
-I would personally recommend setting the c-stick to tilts, and turn of stick jumping. This will add tilts to your arsenal and make them easy to execute. Tilts are more important than smashes, and smashes are easy enough to pull off without the c-stick. Stick jumping makes it difficult to hit your up tilts. Often instead of attacking upwards to hit an opponent above you, you jump straight into your opponent. That said, give different control schemes a try and find what best suits you.
-Know your character
-Strengths and weaknesses. Range. Attack strings. Strategies. 
-Play the neutral game
-This is when nobody is attacking, and nobody is defending. Run and jump back and forth, getting yourself in range. Use this time to come up with a plan. Can you get close enough to your opponent without them attacking? Don’t be tempted to go all out on attacks. Be patient.
-Control the center of the stage
-You have more options with how you execute if you can stay near the middle of the stage and move out from there.
-Watch for patterns
-Pay attention to how your opponent reacts when you try something. Is there a certain sequence of actions your opponent takes? Being familiar with the strengths and weaknesses of the opposing character is important as well, to know what to expect and how to avoid it.
-Finish off a falling opponent
-Don’t be afraid to jump off the side of the platform to hit a recovering opponent. This is the best way to finish someone off. Don’t wait for them to recover! Get comfortable jumping away from the platform then getting back.
-Recover
-Recover by grabbing onto the ledge, not landing on the platform. Your opponent will always be able to read where you’re going to land and punish you dearly for it. When grabbing the ledge, you have options for recovery, either attacking or jumping.
-
-s
