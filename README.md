@@ -16,6 +16,144 @@ If you've been playing the CPU, it's time to relearn what you know. Playing the 
 
 That said, it's in everyone's power to become a better player. If you can learn, you can improve. Pay attention to the details. Soon you'll be holding your own in online mode, pushing the needle of GSP up and up. You may even find yourself looking for chances to play live against other smashers. You've got nowhere to go but up! Now that we're motivated, where do we begin?
 
+---
+
+## Before You Smash
+
+### Choose a Controller
+
+### Set Your Control Scheme
+
+---
+
+## Train
+
+### Training Mode
+Training mode is your best friend.
+Use the colored markings to improve precision.
+
+### Practice Mode
+Create a smash ruleset that uses only omega and battlefield stages.
+Set the CPU to level 1.
+Set it to timed mode.
+Goal is not to beat the CPU, but to always land your hits.
+More practice tips and exercieses will come later.
+
+---
+
+## Choose Your Character
+
+### Try Different Characters
+Every fighter is different, from movement speed to jump height to attack range.
+Use practice mode and see which character you can reliably hit moves with.
+Find a playstyle that you would like to learn.
+
+### Choose a main
+Choose whichever character you think is coolest, or one that you can land hits reliably.
+As you improve with your main, you will also get better at the fundamentals of all other characters.
+
+---
+
+## Moveset
+
+### Movement
+
+#### Walking
+Before you can run, you must walk! 
+How quickly can you tilt the stick without sprinting? 
+Control the speed of your walk. 
+Use this to get into a precice position.
+```
+Exercise: Walk and stop on each colored line as you go across the stage. 
+Try to stop directly on each line.
+You can slow down and speed up to increase precision.
+```
+
+#### Short hopping
+Muscle memory. Try to set a record. Short hop while running forward. Short hop in place.
+You may notice a lag between the time you think about short hopping, and actually executing it.
+The goal of practice is to make it instantanious.
+```
+Exercise 1: Do a standing short hop 5 times in a row.
+Once you make it to 5, keep going and see how many you can do.
+Keep track of your personal record.
+```
+```
+Exercise 2: Perform a running short hop.
+Continue to run across the stage, short hopping as you go.
+```
+
+#### Sprinting
+Turn around without going into skid animation.
+Stop precicely.
+Run up to edge without losing balance.
+```
+Exercise: Run and stop on each colored line.
+Try changing directions as quickly as possible.
+Run up to, but do not touch the dummy.
+```
+
+#### Jumping
+Land precicely.
+Land in front of and behind the opponent.
+```
+Exercise: 
+Jump and land on each colored line across the stage.
+Jump so that the top of your jump is directly above the dummy.
+Jump and land just in front of the dummy.
+Jump and land just behind the dummy.
+```
+
+#### Fast Falling
+Hit down at the very top of the jump.
+You will see a little spark if you do this correctly.
+```
+Exercise: 
+Jump and fast fall 10 times in a row
+```
+
+#### Short-hop fast-fall
+This is the special technique that seperates the best from the rest!
+```
+Exercise:
+Do 5 consecutive short-hop fast-falls, take your time.
+```
+
+### Ground Attacks 
+
+- Neutral
+- Tilt
+- Dash
+
+### Air Attacks
+
+- Neutral
+- Up
+- Down
+- Forward
+- Back
+
+### Short-hop attacks
+
+### Special Attacks
+
+- Neutral
+- Side
+- Up
+- Down
+
+```
+Exercise:
+Go into practice mode and KO the dummy by using only one move over and over. Focus on always hitting the move.
+```
+
+---
+## Strategy
+
+### Footsies
+
+### Getting back on stage
+
 ## Chapter 1: Dive right in!
 
 It may be intimidating at first, but simply playing the game online will give you experience. When you've played for a little while, you'll get a feel for what it's like to really contend, and maybe a sense of what you're up against. Here are a few tips to make the most out of your matches when beginning to play online.
