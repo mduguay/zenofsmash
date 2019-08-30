@@ -31,7 +31,7 @@ Create a nametag and set your default controls. Take note of how your c-stick is
 ## Train
 
 ### Training Mode
-Training mode is your best friend. Just run around and get a feel for your character. Punch up the dummy a little bit.
+Training mode is your best friend. Get to it by going to Games & More -> Training. Set the stage to be training stage. Just run around and get a feel for your character. Punch up the dummy a little bit.
 Use the colored markings to improve precision and measure the distance covered by attacks.
 
 ### Practice Mode
@@ -93,6 +93,15 @@ Exercise 2: Perform a running short hop.
 Continue to run across the stage, short hopping as you go. Focus on always short-hopping, without accidentally jumping. As you get better, see how quickly you can short hop one after another.
 ```
 
+### Fast Falling
+On the way down from any jump, you can tilt the control stick down to fall faster. This will help you land more precicely, and my throw off any opponent that is trying to anticipate where you will land.
+
+A true fast fall however is done by hitting down at the very top of the jump. You will see a little spark if you do this correctly. This is the quickest way down.
+```
+Exercise: 
+Jump and fast fall 10 times in a row
+```
+
 ### Sprinting
 Turn around without going into skid animation.
 Stop precicely.
@@ -114,14 +123,6 @@ Jump and land just in front of the dummy.
 Jump and land just behind the dummy.
 ```
 
-### Fast Falling
-Hit down at the very top of the jump.
-You will see a little spark if you do this correctly.
-```
-Exercise: 
-Jump and fast fall 10 times in a row
-```
-
 ### Short-hop fast-fall
 This is the special technique that seperates the best from the rest!
 ```
@@ -130,9 +131,27 @@ Do 5 consecutive short-hop fast-falls, take your time.
 ```
 
 ---
+## Shielding
+The goal isn't to react to an attack by shielding, the goal is to anticipate an attack and shield before it comes. Many newcomers to the game attack and attack, so using your shield properly is a sure way to get ahead.
+
+Your shield will shrink on it's own, or if an attack hits it. When it breaks, you will become stunned. Remember a grab goes through a shield.
+
+Perfect sheilding can be done by releasing the shield at the precice moment of the attack.
+```
+Exercise: Play practice mode against a level 3 CPU. Use your shield to block all incoming attacks. The only time you can attack the CPU is in retaliation after they hit your shield
+```
+---
+## Grabbing
+Grabbing is the counter to a shielding opponent.
+
+When you grab, you can throw in 4 different directions, each has a different effect.
+```
+Exercise: Fight a level 3 CPU and practice your grabs. The CPU will shield at random. When it does, go in for the grab! The other thing to practice is shielding as it attacks and grabbing out of the shield to punish.
+```
+---
 
 ## Attacks
-
+Finally, I get to smash someone!
 ### Ground Attacks 
 
 - Neutral
@@ -161,14 +180,9 @@ You have all the air attacks, but executed close to the ground. These are very t
 Exercise:
 Go into practice mode and KO the dummy by using only one move over and over. Focus on always hitting the move.
 ```
----
-## Shielding
 
 ---
-## Grabbing
-
----
-## Strategy
+# Part 2: Strategy
 
 ### Footsies
 
@@ -200,35 +214,3 @@ Everyone makes slightly different mistakes while playing, so this is a chance to
 
 ### Keep playing
 Every fight is a good fight! Keep playing against humans and you will get better in time. It may take a few rounds, but you will improve nonetheless. Learn to have fun while playing, even when it can get frustrating. Every time you get frustrated it is an opportunity to learn. Win or lose, experience is valuable.
-
-## Chapter 2: Fundamental Moveset
-Go through these exercises in training mode. Training mode will become your best friend when you're not online. Even the experts need to practice to maintain their skills, and become even better. Simple things that you may take for granted can often be improved upon. This isn't about just learning the fundamentals, this is about having them imprinted in your muscle memory. Paying attention to the small things may yield big results.
-
-### Movement
-Let's start with the basics. The very basics. Like moving the character across the screen.
-
-Try dashing back and forth. Notice how long it takes to get up to speed, how fast you go, and how long it takes to stop. How long does it take to turn around?  Try running in one direction, then turn and stop at the same time so you’re facing the way you came from. Run up to the edge and stop without losing your balance or going over.
-
-Pick a point on the stage, run up and try to stop exactly on that point, several times in a row. If there's a dummy on the screen, try dashing up to it and stop without touching it.
-
-Walk around a bit by tilting the stick slowly. You can walk while the stick is all the way to the left or right, it’s a matter of how quickly you tilt. Walk back and forth, until you get a feel for exactly how fast you have to tilt in order to dash. You can slow down and speed up your walk speed once you’re walking. Use this to get in a precise position that would be hard to do while sprinting.
-
-Fox-trot by starting to dash, returning the stick to neutral, then starting to dash again. For some characters, the start-up to the dash is quicker than the dash itself, so you can fox-trot across the screen to gain distance quickly.
-
-Finally, try looking at the dummy, but still move your character around. Can you get a feel for where your character is without looking directly at it?
-2) Jumping
-Jump around. Jump up, jump up and get down.
-
-First, do single jumps. Get a feel for how far forward and how high you can jump with just one press of the jump button. Can you land precisely where you want to? Pick a colored line on the grid and land there consistently. Jump over the dummy and try to make the highest point of the jump is directly over the dummy’s head. 
-
-Try double jumping at different points in your jump: from immediately after the first jump, to the very top, to down to where you’ve almost landed.
-
-Run or jump off the edge of the platform and start falling down. How far down can you go and still jump back to the stage? Get used to this, because off-stage combat is an important part of overall gameplay and you should know what it takes to get out and back.
-
-Try jumping and tilting back at the same time. Do this several times in a row to get the feel. Most characters do a backflip when this is done right. If your jump is slightly too fast, the character will do a front jump, but in the back direction. Not the end of the world, but you won’t make it as far back. If the tilt is too fast, your character will turn around first before jumping. Try to avoid this, because you’ll end up facing the wrong direction.
-
-Short hop by barely tapping the jump button. The short hop should be about half-height of the full jump. Try hopping in place, then moving forward as you hop. Try to run and short hop. This will come in handy later. If the opponent sees you are about to jump, doing a short jump instead of a full jump may make your opponent jump over you.
-
-Fast fall by hitting down as you come down from a jump. This often throws off the timing of someone anticipating where you’ll land. Also, the faster you land, the faster you can run around. A little spark will appear when this is done correctly.
-
-Lastly, like in the previous section, look at the dummy while you’re jumping around. Still try to land precisely. Set the dummy to walk and jump over it a few times while watching the dummy.
