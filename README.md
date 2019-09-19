@@ -1,4 +1,4 @@
-# Smash Dojo
+# Smash Fu
 Learn to smash, and have fun doing it.
 
 ## Intro
@@ -14,7 +14,7 @@ If this sounds like you, I've created this guide to help us both on the path to 
 
 If you end up getting frustrated or bored with a particular exercie, go and beat up a level 3 CPU without losing a life. I find that a level 3 CPU is close to playing a human who just picked up the game for the first time and is figuring out what the buttons do. Focus on good technique rather than just winning.
 
-If you've been playing the CPU, it's time to relearn what you know. Playing the CPU teaches you some very bad habits, and it's tough to break them. I'd almost say that a complete beginner will have an easier time than someone who is conditioned to play against the CPU.
+If you've been playing a higher level CPU, it's time to relearn what you know. Playing the CPU teaches you some very bad habits, and it's tough to break them. I'd almost say that a complete beginner will have an easier time than someone who is conditioned to play against the CPU.
 
 That said, it's in everyone's power to become a better player. If you can learn, you can improve. Pay attention to the details. Soon you'll be holding your own in online mode, pushing the needle of GSP up and up. You may even find yourself looking for chances to play live against other smashers. You've got nowhere to go but up! Now that we're motivated, where do we begin?
 
@@ -37,10 +37,10 @@ Training mode is your best friend. Get to it by going to Games & More -> Trainin
 Use the colored markings to improve precision and measure the distance covered by attacks.
 
 ### Practice Mode
-Create a smash ruleset that uses only omega and battlefield stages.
-Set the CPU to level 1.
-Set it to timed mode, and choose a moderate length of time. I like 4 minutes, it's enough to get some practice in without getting boring.
+Create a smash ruleset that uses only omega and battlefield stages. Make it a 5 stock game and set the CPU to level 1.
+If you can 5 stock a level 1 CPU, then move on to level 2, etc.
 Remember the goal is not to beat the CPU, but to always land your hits.
+Practicing good fundamentals and still getting hit is better than rushing down the CPU, because that tactic won't work against good humans.
 More practice tips and exercises will come later.
 
 ---
@@ -111,9 +111,9 @@ Exercise:
 Do 5 consecutive short-hop fast-falls, take your time.
 ```
 
-### Sprinting
+### Dashing
 Turn around without going into skid animation.
-Stop precicely.
+Figure out how short your dash can be. You may have to dash left and right to get in a precice position.
 Run up to edge without losing balance.
 ```
 Exercise: Run and stop on each colored line.
@@ -135,13 +135,27 @@ Jump and land just behind the dummy.
 
 ---
 ## Shielding
-The goal isn't to react to an attack by shielding, the goal is to anticipate an attack and shield before it comes. Many newcomers to the game attack and attack, so using your shield properly is a sure way to get ahead.
+Using the shield is very important in good smash play. This is largely where 
 
-Your shield will shrink on it's own, or if an attack hits it. When it breaks, you will become stunned. Remember a grab goes through a shield.
+The goal isn't to react to an attack by shielding, the goal is to anticipate an attack and shield before it comes. Many newcomers to the game just spam attacks, so using your shield properly is a sure way to get ahead.
 
-Perfect sheilding can be done by releasing the shield at the precice moment of the attack.
+When you shield, you have a variety of follow-up moves to choose from. You can dodge, roll, or grab out of a shield.
+
+Your shield will shrink on it's own, or if an attack hits it. When it breaks, you will become stunned. The shield will regenerate on its own when it is not being used.
+
+Perfect sheilding can be done by releasing the shield at the precice moment of the attack. The shield will not take any damage this way.
 ```
 Exercise: Play practice mode against a level 3 CPU. Use your shield to block all incoming attacks. The only time you can attack the CPU is in retaliation after they hit your shield
+```
+---
+## Dodging
+While your shield is up, you can dodge by tilting down on the control stick. This is a spot dodge, and useful for avoiding projectiles that normally would have hit, and damanged, your shield.
+
+```
+Exercise:
+Choose a cpu character that has a projectile as their neutral special.
+You can set the dummy to spam this move in training mode.
+Stand in the line of fire and spot dodge each incoming attack.
 ```
 ---
 ## Grabbing
@@ -170,7 +184,7 @@ Finally, I get to smash someone!
 - Back
 
 ### Short-hop attacks
-You have all the air attacks, but executed close to the ground. These are very trickly to pull off, but very rewarding. Focus on hitting the attack button as you are coming down from a short hop.
+You have all the air attacks, but executed close to the ground. These are very trickly to pull off, but very rewarding. Focus on hitting the attack button as you are coming down from a short hop. This will allow you to hit opponents on the ground with your air attacks.
 
 ### Special Attacks
 
@@ -181,21 +195,39 @@ You have all the air attacks, but executed close to the ground. These are very t
 
 ```
 Exercise:
-Go into practice mode and KO the dummy by using only one move over and over. Focus on always hitting the move.
+Go into practice mode and KO the dummy by using only one move over and over. Focus on always hitting the move. Eventually, especially against a higher level CPU, they will start to counter that move. Pay attention to those signs and try to figure out how to avoid getting hit even when they counter.
 ```
 
 ---
 # Part 2: Strategy
 
 ## Trifecta
+Grab beats shield, shield beats attack, and attack beats grab.
+Think of it like rock, paper, scissors whenever you and your opponent clash.
 
 ## Spacing
+Keep a neutral game going. Feel out your opponent's movements without going in for an attack. Dodge, jump and dash to gain a good angle of attack.
 
-## Racking Up Damage
+## Keep Your Eye on Your Opponent
+You should be comfortable enough with your own character that you can move around and attack without looking directly at it. Keep your focus on your opponent instead, look how they're moving, where they are, and what they might throw out next.
+
+## Racking Up Damange
+Don't go instantly for the KO! Reserve smashes and big hits for when the opponent is at a high percentage. A lot of good small hits is enough to play the early game.
+
+## Punish
+Focus on punishing your opponents mistakes rather than going for pure offence. It's a game of counters, so have an answer.
 
 ## Recovering
+Landing on the stage is sure to get you in trouble. Save your jumps for grabbing on to the ledge. When you're on the ledge you have multiple options for getting up.
+
+## Edgeguarding
+Prevent your opponent from recovering. Practice jumping out from the ledge, performing an attack, then getting back to the stage. What are your options for a person hanging on the ledge? Can you hit them while they are hanging and the invincibility has worn off? What about when they recover.
 
 ## Go for the Kill
+Is there an attack that you're really good at and can always hit? Save it for your finisher when you want to seal the deal.
+
+## Don't Make the Same Mistake Twice
+If you're trying something that just doesn't seem to be working, mix it up! Take some time, play the neutral game, and gather your thoughts for the next plan of attack.
 
 ---
 # Part 3: Going Online!
@@ -206,7 +238,7 @@ It may be intimidating at first, but simply playing the game online will give yo
 Here are a few tips to make the most out of your matches when beginning to play online.
 
 ## Don't pay attention to GSP
-GSP is basically a way to ensure that you'll be playing against people where you have a fighting chance. It's better to have an accurate GSP than it is to have a high GSP. It will take a few rounds to calibrate. If you’ve played classic mode, you will start out with a GSP that is probably higher than you really should be.
+GSP is basically a way to ensure that you'll be playing against people roughly at your level. It's better to have an accurate GSP than it is to have a high GSP. If you’ve played classic mode, you will start out with a GSP that is probably higher than you really should be. It will take a few rounds to calibrate.
 
 ## Don’t panic! 
 Take your time and try and think about your next move. This can be tricky if your opponent doesn’t give you time to think, but don’t start flailing just to try to hit something. If your opponent is chasing you down, try just dodging and getting out of range for a while as you regroup. Be intentional with your attacks. Don’t forget to shield and grab.
@@ -218,7 +250,6 @@ Don't give up if you're getting whooped. You may always land a few hits, and tha
 This is important! On the final results screen, you'll have a chance to save a replay. Whether you win or lose, there are always lessons to be learned. If you're like me, your first few fights will go by so quickly you won't even know what happened. Having the tape is mandatory if you want to get the most value out of a match.
 
 ## Analyze your replays
-
 Everyone makes slightly different mistakes while playing, so this is a chance to tailor your training. Keep a notepad handy and keep a record of lessons learned. Use Z to step through frame by frame. Find out your weak points and start paying attention to them. Sometimes I'll catch a "what was I thinking!?" moment. Don't get discouraged! I've filled pages with things I could have done better, and then I wonder where I should even begin to improve. The point isn’t to be overwhelmed with negatives, but simply to make a note and acknowledge it.
 
 ## Keep playing
