@@ -211,14 +211,17 @@ Keep a neutral game going. Feel out your opponent's movements without going in f
 ## Keep Your Eye on Your Opponent
 You should be comfortable enough with your own character that you can move around and attack without looking directly at it. Keep your focus on your opponent instead, look how they're moving, where they are, and what they might throw out next.
 
+## Control the Board
+Keep yourself to the center of the stage and push your opponent off it. If you get knocked away, grab the ledge, but while playing the neutral game keep to the center and attack outward.
+
 ## Racking Up Damange
 Don't go instantly for the KO! Reserve smashes and big hits for when the opponent is at a high percentage. A lot of good small hits is enough to play the early game.
 
 ## Punish
-Focus on punishing your opponents mistakes rather than going for pure offence. It's a game of counters, so have an answer.
+Focus on punishing your opponents mistakes rather than going for pure offence. It's a game of counters, so have an answer. Practice on a CPU by not attacking directly, but just counter depending on what the CPU randomly does.
 
 ## Recovering
-Landing on the stage is sure to get you in trouble. Save your jumps for grabbing on to the ledge. When you're on the ledge you have multiple options for getting up.
+Landing on the stage is sure to get you in trouble. Save your jumps for grabbing on to the ledge. When you're on the ledge you have multiple options for getting up. Know which moves move you horizontaly or upward so you don't have to rely only on jumps to get back.
 
 ## Edgeguarding
 Prevent your opponent from recovering. Practice jumping out from the ledge, performing an attack, then getting back to the stage. What are your options for a person hanging on the ledge? Can you hit them while they are hanging and the invincibility has worn off? What about when they recover.
@@ -254,3 +257,6 @@ Everyone makes slightly different mistakes while playing, so this is a chance to
 
 ## Keep playing
 Every fight is a good fight! Keep playing against humans and you will get better in time. It may take a few rounds, but you will improve nonetheless. Learn to have fun while playing, even when it can get frustrating. Every time you get frustrated it is an opportunity to learn. Win or lose, experience is valuable.
+
+# In Conclusion
+Smash is for fun! Learn to enjoy the experience, win or lose. Every game you play will make you better.
