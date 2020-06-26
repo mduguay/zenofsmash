@@ -1,43 +1,123 @@
 # The Zen of Smash
 
-—
+## Mantras
 
-Stop fighting the CPU
+Keep your eyes on the opponent.
 
-If you’ve spent hundreds of hours fighting the CPU, then that’s hundreds of hours you’ll have to un-learn. Things that work against the CPU will not work against humans, and vice-versa. Humans are quicker to learn, and much less forgiving.
+Breathe. Pace the game.
 
-—
+Mix it up.
 
-Get a LAN adapter
+Never give up.
 
-The game will sync to the laggiest player, and you don’t want that player to be you. The more people that are in a fight, the more likely it is to lag. A wired ethernet connection will beat out even the fastest wi-fi.
+It’s not about winning, it’s about improving.
 
-—
-—
+## Warm Up
 
-Mantras
+### Training Mode
 
-It’s not about winning, it’s about improving
-Always keep your eyes on the opponent
-Never give up
-Breathe
+Short hop / fast fall
 
-—
-—
+RAR
 
-Warm up
+Walking
 
-Repetitive, but simple motions. Things you want to burn into muscle memory.
+Dash grab vs. standing grab
 
-Intentional drilling. Basic technique 
+Pivot grab
 
-1. Short hopping
-2. Bread and Butter combos
-3. Recovering from off-stage
+Turning around while walking.
 
-—
+Dashing - Change direction without 'skidding'
 
-Save replays
+Choose one bread and butter combo
+
+### Movement
+
+Set the CPU Behavior to Lv. 3
+
+Practice keeping away from the opponent without rolling.
+
+Avoid getting hit just by moving, jumping, and sheilding.
+
+No rolling! Rolling is always punishable, and gets worse and worse the more you use it.
+
+Short hop / fast fall as you're doing this.
+
+### Getting out of your sheild
+
+Rolling is slow and punishable
+
+Jumping is a better option
+
+### Smash: 3 minute drills
+
+Go into Smash and create a rule: 
+
+Style: Stock
+Stock: 3
+Time Limit: 3:00
+FS Meter: Off
+Spirits: Off
+CPU Lv. 1
+Stage Selection: Battlefield & Omega
+Items: None
+
+### Offense
+
+3 stock the CPU while playing as perfectly as possible.
+
+Keep in mind the mantras.
+
+Be intentional with your moves.
+
+Land every attack that you throw out.
+
+Never take damage.
+
+Throw in a different direction each time.
+
+Recover from the ledge a different way each time.
+
+Hit your bread and butter combos.
+
+If you land a string of attacks, keep in mind if it's a true combo or just a juggle.
+
+Too easy? Try setting the CPU to level 2.
+
+### Defense
+
+
+
+## Training
+
+Repetitive, but simple motions. Things you want to burn into muscle memory. Intentional drilling. 
+
+
+
+### Basic Technique
+- Short hopping
+- Walking
+- Jump backwards while facing forwards
+- Fast falling
+
+### Attacking
+- Hit your combo starters
+
+## Practice
+
+Focus on *one* thing
+
+Intense practice for a short period of time
+
+Take breaks
+
+## Go Online
+
+Reccomended settings:
+
+- No items
+- No fina
 
 At the end of every fight, hit “A, A, Y”
 
@@ -65,3 +145,16 @@ Practice
 - Vince Lombardi
 
 Focus on one bad habit.
+There are a few things you can do right off the bat that will improve the way you play the game. Consider these prerequisites before you really start training.
+
+---
+
+Stop fighting the CPU
+
+If you’ve spent hundreds of hours fighting the CPU, then that’s hundreds of hours you’ll have to un-learn. Things that work against the CPU will not work against humans, and vice-versa. Humans are quicker to learn, and much less forgiving.
+
+---
+
+Get a LAN adapter
+
+The game will sync to the laggiest player, and you don’t want that player to be you. The more people that are in a fight, the more likely it is to lag. A wired ethernet connection will beat out even the fastest wi-fi.
